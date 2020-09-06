@@ -4,22 +4,17 @@
     <projectFile>Tasks/Tasks.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="060237dd-2f1b-4433-8f52-6574bdb354b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tasks/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task10.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task2.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task3.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task4.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task5.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task6.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task7.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task8.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task9.cs" afterDir="false" />
+    <list default="true" id="060237dd-2f1b-4433-8f52-6574bdb354b2" name="Default Changelist" comment="first 10 tasks">
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task24.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task25.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task26.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task27.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task28.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task29.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task30.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Tasks/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tasks/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tasks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks/1/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Part-1/Main.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks/1/Task1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Part-1/Task1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks/1/Task2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Part-1/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Part-1/Main.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tasks/bin/Debug/netcoreapp3.1/Tasks.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/bin/Debug/netcoreapp3.1/Tasks.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tasks/bin/Debug/netcoreapp3.1/Tasks.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/bin/Debug/netcoreapp3.1/Tasks.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tasks/obj/Debug/netcoreapp3.1/Tasks.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/obj/Debug/netcoreapp3.1/Tasks.csproj.CoreCompileInputs.cache" afterDir="false" />
@@ -52,10 +47,22 @@
         <option value="$PROJECT_DIR$/Tasks/Part-1/Task4.cs" />
         <option value="$PROJECT_DIR$/Tasks/Part-1/Task5.cs" />
         <option value="$PROJECT_DIR$/Tasks/Part-1/Task6.cs" />
-        <option value="$PROJECT_DIR$/Tasks/Part-1/Main.cs" />
         <option value="$PROJECT_DIR$/Tasks/Part-1/Task7.cs" />
         <option value="$PROJECT_DIR$/Tasks/Part-1/Task8.cs" />
         <option value="$PROJECT_DIR$/Tasks/Part-1/Task9.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task10.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task30.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task29.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Main.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task26.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task24.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task23.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task22.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task21.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task20.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task28.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task27.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task25.cs" />
       </list>
     </option>
   </component>
@@ -108,17 +115,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599405478257</updated>
-      <workItem from="1599405495713" duration="3425000" />
+      <workItem from="1599405495713" duration="5214000" />
+      <workItem from="1599414280174" duration="681000" />
     </task>
+    <task id="LOCAL-00001" summary="first 10 tasks">
+      <created>1599409187476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599409187476</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="first 10 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="first 10 tasks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="647" y="330" key="Github.ShareDialog" timestamp="1599406819330">
@@ -129,21 +147,29 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="545" y="138" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1599406827528" />
-    <state width="1493" height="174" key="GridCell.Tab.0.bottom" timestamp="1599408757693">
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom" timestamp="1599413433808">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1599408757693" />
-    <state width="1493" height="174" key="GridCell.Tab.0.center" timestamp="1599408757692">
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1599413433808" />
+    <state width="1493" height="174" key="GridCell.Tab.0.center" timestamp="1599413433808">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1599408757692" />
-    <state width="1493" height="174" key="GridCell.Tab.0.left" timestamp="1599408757692">
+    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1599413433808" />
+    <state width="1493" height="174" key="GridCell.Tab.0.left" timestamp="1599413433808">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1599408757692" />
-    <state width="1493" height="174" key="GridCell.Tab.0.right" timestamp="1599408757693">
+    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1599413433808" />
+    <state width="1493" height="174" key="GridCell.Tab.0.right" timestamp="1599413433808">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1599408757693" />
+    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1599413433808" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1599409193304">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1599409193304" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599409144207">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1599409144207" />
   </component>
 </project>
