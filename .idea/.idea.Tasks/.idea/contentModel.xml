@@ -6,11 +6,6 @@
     <e p="D:\Univer\4 course\1 semestr\.net Metelap\Tasks" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="Tasks" t="IncludeRecursive">
-        <e p="1" t="Include">
-          <e p="Main.cs" t="Include" />
-          <e p="Task1.cs" t="Include" />
-          <e p="Task2.cs" t="Include" />
-        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -18,6 +13,19 @@
               <e p="Tasks.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="Part-1" t="Include">
+          <e p="Main.cs" t="Include" />
+          <e p="Task1.cs" t="Include" />
+          <e p="Task10.cs" t="Include" />
+          <e p="Task2.cs" t="Include" />
+          <e p="Task3.cs" t="Include" />
+          <e p="Task4.cs" t="Include" />
+          <e p="Task5.cs" t="Include" />
+          <e p="Task6.cs" t="Include" />
+          <e p="Task7.cs" t="Include" />
+          <e p="Task8.cs" t="Include" />
+          <e p="Task9.cs" t="Include" />
         </e>
         <e p="Tasks.csproj" t="IncludeRecursive" />
       </e>

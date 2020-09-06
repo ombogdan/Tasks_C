@@ -4,28 +4,81 @@
     <projectFile>Tasks/Tasks.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="060237dd-2f1b-4433-8f52-6574bdb354b2" name="Default Changelist" comment="" />
+    <list default="true" id="060237dd-2f1b-4433-8f52-6574bdb354b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tasks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task10.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task2.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task8.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Part-1/Task9.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tasks/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tasks/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tasks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/1/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Part-1/Main.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/1/Task1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Part-1/Task1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/1/Task2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/bin/Debug/netcoreapp3.1/Tasks.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/bin/Debug/netcoreapp3.1/Tasks.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/bin/Debug/netcoreapp3.1/Tasks.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/bin/Debug/netcoreapp3.1/Tasks.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/obj/Debug/netcoreapp3.1/Tasks.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/obj/Debug/netcoreapp3.1/Tasks.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/obj/Debug/netcoreapp3.1/Tasks.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/obj/Debug/netcoreapp3.1/Tasks.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/obj/Debug/netcoreapp3.1/Tasks.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/obj/Debug/netcoreapp3.1/Tasks.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Tasks/1/Main.cs" />
         <option value="$PROJECT_DIR$/Tasks/1/Task1.cs" />
+        <option value="$PROJECT_DIR$/Tasks/1/Main.cs" />
+        <option value="$PROJECT_DIR$/Tasks/1/Task2.cs" />
+        <option value="$PROJECT_DIR$/Tasks/1/Task4.cs" />
+        <option value="$PROJECT_DIR$/Tasks/1/Task5.cs" />
+        <option value="$PROJECT_DIR$/Tasks/1/Task6.cs" />
+        <option value="$PROJECT_DIR$/Tasks/1/Task7.cs" />
+        <option value="$PROJECT_DIR$/Tasks/1/Task8.cs" />
+        <option value="$PROJECT_DIR$/Tasks/1/Task9.cs" />
+        <option value="$PROJECT_DIR$/Tasks/1/Task10.cs" />
+        <option value="$PROJECT_DIR$/Tasks/1/Task3.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task3.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task4.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task5.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task6.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Main.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task7.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task8.cs" />
+        <option value="$PROJECT_DIR$/Tasks/Part-1/Task9.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1h8vL5DP2pFfVssq9oUiY2BxRJw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager">
     <configuration name="Tasks" type="DotNetProject" factoryName=".NET Project">
@@ -55,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599405478257</updated>
-      <workItem from="1599405495713" duration="1115000" />
+      <workItem from="1599405495713" duration="3425000" />
     </task>
     <servers />
   </component>
@@ -68,21 +121,29 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="174" key="GridCell.Tab.0.bottom" timestamp="1599406600092">
+    <state x="647" y="330" key="Github.ShareDialog" timestamp="1599406819330">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1599406600092" />
-    <state width="1493" height="174" key="GridCell.Tab.0.center" timestamp="1599406600092">
+    <state x="647" y="330" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1599406819329" />
+    <state x="545" y="138" key="Github.UntrackedFilesDialog" timestamp="1599406827528">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1599406600092" />
-    <state width="1493" height="174" key="GridCell.Tab.0.left" timestamp="1599406600091">
+    <state x="545" y="138" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1599406827528" />
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom" timestamp="1599408757693">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1599406600091" />
-    <state width="1493" height="174" key="GridCell.Tab.0.right" timestamp="1599406600092">
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1599408757693" />
+    <state width="1493" height="174" key="GridCell.Tab.0.center" timestamp="1599408757692">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1599406600092" />
+    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1599408757692" />
+    <state width="1493" height="174" key="GridCell.Tab.0.left" timestamp="1599408757692">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1599408757692" />
+    <state width="1493" height="174" key="GridCell.Tab.0.right" timestamp="1599408757693">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1599408757693" />
   </component>
 </project>

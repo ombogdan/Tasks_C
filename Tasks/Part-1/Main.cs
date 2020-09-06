@@ -6,7 +6,7 @@ namespace Tasks
     {
         static void Main(string[] args)
         {
-            Task2 task = new Task2();
+            Task10 task = new Task10();
             task.Main1();
         }
     }
