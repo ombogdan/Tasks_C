@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\omelc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\omelc\\.nuget\\packages"
+    ]
+  }
+}
