@@ -1,12 +1,11 @@
 ﻿using System;
-
 namespace Tasks
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Task26 task = new Task26();
+            Task7 task = new Task7();
             task.Main1();
         }
     }
